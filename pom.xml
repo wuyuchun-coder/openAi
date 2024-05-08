@@ -13,6 +13,7 @@
         <module>openAi-application</module>
         <module>openAi-infrastructure</module>
         <module>openAi-interfaces</module>
+        <module>openAi-common</module>
     </modules>
     <properties>
         <java.version>1.8</java.version>
